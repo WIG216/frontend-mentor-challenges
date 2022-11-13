@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Manrope', sans-serif;
+    background-color: $dark-grayish-blue;
+}
+
+.attribution {
+    font-size: 13px;
+    padding-bottom: 20px;
+    color: var(--dark-grayish-blue);
+    text-align: center;
+    
+    a {
+     color: hsl(228, 45%, 44%);
+   }
+  }
+  

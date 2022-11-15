@@ -25,11 +25,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/sergii-moroz/advice-generator-app)
+- Solution URL: [GitHub](https://github.com/WIG216/frontend-mentor-challenges)
 
-## My process
-
-[YouTube](https://youtu.be/lG314oxhvTA)
 
 ### Built with
 
@@ -38,7 +35,7 @@ Your users should be able to:
 
 ## Author
 
-- Frontend Mentor - [link](https://www.frontendmentor.io/profile/sergii-moroz)
+- Frontend Mentor - [link](https://www.frontendmentor.io/profile/WIG216)
 
 ### Screenshot
 
